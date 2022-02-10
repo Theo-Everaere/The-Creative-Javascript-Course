@@ -18,6 +18,3 @@ Travel Website
 
 Everything you need to know about using animation in JavaScript.
 
-Photon
-
-An impressive Image search engine. You'll master asynchronous JavaScript and fetching APIs."
